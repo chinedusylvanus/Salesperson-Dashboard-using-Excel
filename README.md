@@ -1,5 +1,7 @@
 # Salesperson-Dashboard-using-Excel
 
+![](SalesDashboard.PNG)
+
 ## Introduction
 
 An Excel file showing dashboard of a telecommunications company. The Dashboard shows Sales Area Performance, indicating
